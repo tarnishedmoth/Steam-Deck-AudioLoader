@@ -2,9 +2,8 @@
   "name": "PS2 Ambience",
   "description": "The ambient music of the PS2 system menu screen. Sound provided by https://www.youtube.com/c/techguy348. https://youtu.be/Cxk1gI2sg3w.",
   "author": "superfluid-cs",
-  "version": "v1.0",
-  "manifest_version": 2,
+  "version": "v1.1",
+  "manifest_version": 1,
   "music": true,
-  "ignore": [],
-  "mappings": {}
+  "ignore": []
 }
